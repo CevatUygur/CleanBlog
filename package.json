@@ -1,0 +1,23 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "CleanBlog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CevatUygur/CleanBlog.git"
+  },
+  "author": "Cevat Uygur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CevatUygur/CleanBlog/issues"
+  },
+  "homepage": "https://github.com/CevatUygur/CleanBlog#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
